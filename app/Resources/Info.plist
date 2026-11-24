@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>光影间</string>
+    <key>CFBundleLocalizations</key>
+    <array>
+        <string>zh-Hans</string>
+        <string>en</string>
+    </array>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>zh-Hans</string>
+    <key>CFBundleDisplayName</key>
+    <string>光影间</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.xcdh.lumina</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.15</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.15</string>
+    <key>CFBundleExecutable</key>
+    <string>LivePhotoConverter</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSLocationUsageDescription</key>
+    <string>用于把照片 GPS 显示成地点名称。</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>把转换好的实况照片添加到「照片」图库。</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>把转换好的实况照片添加到「照片」图库。</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>本地处理，不上传照片</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.photography</string>
+</dict>
+</plist>

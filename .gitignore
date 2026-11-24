@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Build artifacts & release packages (upload via GitHub Releases)
+dist/
+
+# Local test/personal media outputs
+output/
+repaired/
+
+# ExifTool offline docs & test suite (not needed at runtime)
+app/vendor/exiftool/html/
+app/vendor/exiftool/t/
